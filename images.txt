@@ -1,1 +1,1 @@
-euleros：2.2
+euleros:latest
