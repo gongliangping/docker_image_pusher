@@ -1,2 +1,2 @@
 anapsix/alpine-java:8_jdk_unlimited
-openspug/spug:3.3.3
+openspug/spug:latest
